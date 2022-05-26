@@ -1,0 +1,3 @@
+echo '#!/bin/bash'> l-listit
+echo 'ls'>> l-listit
+chmod 755 l-listit
